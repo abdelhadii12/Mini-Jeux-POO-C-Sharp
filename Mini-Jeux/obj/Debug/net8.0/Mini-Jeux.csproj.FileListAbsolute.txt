@@ -1,0 +1,14 @@
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.AssemblyInfoInputs.cache
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.AssemblyInfo.cs
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\bin\Debug\net8.0\Mini-Jeux.exe
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\bin\Debug\net8.0\Mini-Jeux.deps.json
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\bin\Debug\net8.0\Mini-Jeux.runtimeconfig.json
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\bin\Debug\net8.0\Mini-Jeux.dll
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\bin\Debug\net8.0\Mini-Jeux.pdb
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.dll
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\refint\Mini-Jeux.dll
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.pdb
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\Mini-Jeux.genruntimeconfig.cache
+C:\Users\abdel\source\repos\Mini-Jeux\Mini-Jeux\obj\Debug\net8.0\ref\Mini-Jeux.dll
